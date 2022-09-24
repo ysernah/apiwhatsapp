@@ -1,18 +1,1 @@
-[
-  {
-    from: '51994255213',
-    id: 'wamid.ABGGFlCGg0cvAgo-sJQh43L5Pe4W',
-    timestamp: '1603059201',
-    type: 'text',
-    text: { body: 'hola 12345' },
-    interactive: null,
-    Image: null,
-    Audio: null,
-    Video: null,
-    Document: null,
-    Sticker: null,
-    Location: null,
-    contacts: null,
-    System: null
-  }
-]
+
