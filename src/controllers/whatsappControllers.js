@@ -8,7 +8,7 @@ const VerifyToken =(req, res) =>{
 
     try{
 
-            var accessToken="E(G+KbPeShVmYq3t6w9z$C&F)J@McQfTjWnZr4u7x!A%D*G-KaPdRgUkXp2s5v8y";
+            var accessToken="TU_TOKEN-";
             var token =req.query["hub.verify_token"];
             var challenge = req.query["hub.challenge"];
 
